@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=huskyjp&count_private=true&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huskyjp&theme=tokyonight&hide=Java,HTML)
+![GitHub stats](https://huskyjp-stat-2wzp0i3h8-huskyjp.vercel.app/api?username=huskyjp&count-private=true&count_private=true&show_icons=true&theme=tokyonight)
+
+
+![Top Langs](https://huskyjp-stat-2wzp0i3h8-huskyjp.vercel.app/api/top-langs/?username=huskyjp&count-private=true&count_private=true&theme=tokyonight&hide=Java,HTML,Javascript,CSS,Makefile,Python)
