@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![GitHub stats](https://huskyjp-stat.vercel.app/api?username=huskyjp&count-private=true&count_private=true&show_icons=true&theme=tokyonight)
+![GitHub stats](https://huskyjp-stat.vercel.app/api?username=huskyjp&count_private=true&count_private=true&show_icons=true&theme=apprentice)
 
 
-![Top Langs](https://huskyjp-stat.vercel.app/api/top-langs/?username=huskyjp&count-private=true&count_private=true&theme=tokyonight&hide=Java,HTML,Javascript,CSS,Makefile,Python)
+![Top Langs](https://huskyjp-stat.vercel.app/api/top-langs/?username=huskyjp&count_private=true&count_private=true&theme=apprentice&hide=Java,HTML,Javascript,CSS,Makefile,Python)
