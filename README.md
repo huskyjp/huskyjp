@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 ![GitHub stats](https://huskyjp-stat.vercel.app/api?username=huskyjp&count_private=true&count_private=true&show_icons=true&theme=apprentice)
 
 
-![Top Langs](https://huskyjp-stat.vercel.app/api/top-langs/?username=huskyjp&count_private=true&count_private=true&theme=apprentice&hide=Java,HTML,Javascript,CSS,Makefile,Python)
+![Top Langs](https://huskyjp-stat.vercel.app/api/top-langs/?username=huskyjp&count_private=true&count_private=true&theme=apprentice&hide=Java,HTML,Javascript,CSS,Makefile,Python,Ruby,Shell)
