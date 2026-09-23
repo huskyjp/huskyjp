@@ -2,7 +2,7 @@
 -- ~/whoami
 
 local maybehusky = {
-  role = "software engineer",
+  role = "forward-deployed to connectivity chaos",
   company = "runetale",
   location = "seattle, wa",
   harness = "opencode | pi",
