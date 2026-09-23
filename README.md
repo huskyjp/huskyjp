@@ -1,13 +1,17 @@
 ```lua
 -- ~/whoami
 
-local taishi = {
+local maybehusky = {
   role = "software engineer",
   company = "runetale",
   location = "seattle, wa",
   languages = { "zig", "typescript", "rust", "go", "lua" },
   editor = "neovim",
-  site = "https://www.runetale.com",
-  linkedin = "https://linkedin.com/in/taishi-masubuchi",
+  terminal = "ghostty",
+  shell = "fish",
+  wm = "aerospace",
+  font = "berkeley mono",
+  theme = "vesper",
+  dotfiles = "huskyjp/.config",
 }
 ```
