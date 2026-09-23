@@ -1,20 +1,13 @@
-### Hi there 🐺👋🐺
-<!--
-**huskyjp/huskyjp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```lua
+-- ~/whoami
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-![GitHub stats](https://huskyjp-stat.vercel.app/api?username=huskyjp&count_private=true&count_private=true&show_icons=true&theme=apprentice)
-
-
-![Top Langs](https://huskyjp-stat.vercel.app/api/top-langs/?username=huskyjp&count_private=true&count_private=true&theme=apprentice&hide=Java,HTML,Javascript,CSS,Makefile,Python,Ruby,Shell)
+local taishi = {
+  role = "software engineer",
+  company = "runetale",
+  location = "seattle, wa",
+  languages = { "zig", "typescript", "rust", "go", "lua" },
+  editor = "neovim",
+  site = "https://www.runetale.com",
+  linkedin = "https://linkedin.com/in/taishi-masubuchi",
+}
+```
